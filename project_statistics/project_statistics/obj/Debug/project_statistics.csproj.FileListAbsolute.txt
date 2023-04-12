@@ -1,0 +1,11 @@
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\bin\Debug\project_statistics.exe.config
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\bin\Debug\project_statistics.exe
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\bin\Debug\project_statistics.pdb
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.csprojAssemblyReference.cache
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.Form1.resources
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.Properties.Resources.resources
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.csproj.GenerateResource.cache
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.csproj.CoreCompileInputs.cache
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.exe
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.pdb
+C:\Users\pl9076\source\repos\project_statistics\project_statistics\obj\Debug\project_statistics.Form2.resources
