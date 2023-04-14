@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace project_statistics
 {
-    public partial class Form2 : Form
+    public partial class Form5 : Form
     {
-        public Form2()
+        public Form5()
         {
             InitializeComponent();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
@@ -25,7 +30,7 @@ namespace project_statistics
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 newForm = new Form1();
+            Form4 newForm = new Form4();
             newForm.Show();
         }
     }

@@ -8,24 +8,38 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace project_statistics
 {
-    public partial class Form2 : Form
+    public partial class Form4 : Form
     {
-        public Form2()
+        public Form4()
         {
             InitializeComponent();
+            
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void label1_Click(object sender, EventArgs e)
+           
+        {
+
+
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 newForm = new Form1();
+            Form5 newForm = new Form5();
             newForm.Show();
         }
     }

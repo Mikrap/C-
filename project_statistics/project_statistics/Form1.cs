@@ -21,5 +21,27 @@ namespace project_statistics
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form2 newForm = new Form2();
+            newForm.Show();
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            Form3 newForm = new Form3();
+            newForm.Show();
+            this.Hide();
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
