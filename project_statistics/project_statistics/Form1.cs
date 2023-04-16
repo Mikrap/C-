@@ -43,5 +43,12 @@ namespace project_statistics
         {
             this.Close();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form6 newForm = new Form6();
+            newForm.Show();
+            this.Hide();
+        }
     }
 }
